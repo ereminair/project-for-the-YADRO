@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/external_sort.dir/src/Config.cpp.o CMakeFiles/external_sort.dir/src/Sorter.cpp.o CMakeFiles/external_sort.dir/src/Tape.cpp.o CMakeFiles/external_sort.dir/src/main.cpp.o -o external_sort

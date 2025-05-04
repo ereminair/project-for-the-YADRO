@@ -1,0 +1,5 @@
+if(EXISTS "/Users/irinae/CLionProjects/external_sort/cmake-build-debug/tests/tests[1]_tests.cmake")
+  include("/Users/irinae/CLionProjects/external_sort/cmake-build-debug/tests/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()

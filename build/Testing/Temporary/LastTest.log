@@ -1,0 +1,19 @@
+Start testing: May 04 14:23 MSK
+----------------------------------------------------------
+1/1 Testing: SortTest
+1/1 Test: SortTest
+Command: "/Users/irinae/CLionProjects/external_sort/build/tests/tests"
+Directory: /Users/irinae/CLionProjects/external_sort/build/tests
+"SortTest" start time: May 04 14:23 MSK
+Output:
+----------------------------------------------------------
+✅ testSortSmallFile passed
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"SortTest" end time: May 04 14:23 MSK
+"SortTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 04 14:23 MSK

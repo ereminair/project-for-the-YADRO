@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/irinae/CLionProjects/external_sort/build/cmake_install.cmake",
+		"/Users/irinae/CLionProjects/external_sort/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tests.dir/test_sort.cpp.o CMakeFiles/tests.dir/__/src/Sorter.cpp.o CMakeFiles/tests.dir/__/src/Tape.cpp.o -o tests

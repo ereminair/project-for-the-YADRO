@@ -1,0 +1,8 @@
+/Users/irinae/CLionProjects/external_sort/build/CMakeFiles/external_sort.dir
+/Users/irinae/CLionProjects/external_sort/build/CMakeFiles/test.dir
+/Users/irinae/CLionProjects/external_sort/build/CMakeFiles/edit_cache.dir
+/Users/irinae/CLionProjects/external_sort/build/CMakeFiles/rebuild_cache.dir
+/Users/irinae/CLionProjects/external_sort/build/tests/CMakeFiles/tests.dir
+/Users/irinae/CLionProjects/external_sort/build/tests/CMakeFiles/test.dir
+/Users/irinae/CLionProjects/external_sort/build/tests/CMakeFiles/edit_cache.dir
+/Users/irinae/CLionProjects/external_sort/build/tests/CMakeFiles/rebuild_cache.dir
